@@ -51,9 +51,7 @@
     <td style="border: 1px solid white; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=abhaykatre70&theme=dark&hide_border=false&show_icons=true&locale=en" width="350" height="180" alt="GitHub Stats" />
     </td>
-    <td style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykatre70&theme=dark&hide_border=false" width="350" height="180" alt="GitHub Streak" />
-    </td>
+  
   </tr>
 </table>
 
