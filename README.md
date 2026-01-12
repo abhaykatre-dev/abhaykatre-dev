@@ -42,16 +42,5 @@
 
 <br/>
 
-<!-- Black background with white border using custom HTML -->
-<table align="center" style="background-color: black; border-collapse: collapse; border: 2px solid white;">
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaykatre70&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" width="350" height="180" alt="Top Languages" />
-    </td>
-    <td style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhaykatre70&theme=dark&hide_border=false&show_icons=true&locale=en" width="350" height="180" alt="GitHub Stats" />
-    </td>
-  
-  </tr>
-</table>
+
 
