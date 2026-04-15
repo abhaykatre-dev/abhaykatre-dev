@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Katre</h1>
-
-<img align="right" alt="Developer Vibe" width="320" src="./assets/Developer.gif">
+<img align="right" alt="Developer Vibe" width="320" src="./assets/developer_animation.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhaykatre70&label=Profile%20views&color=0e75b6&style=flat" alt="abhaykatre-dev" />
